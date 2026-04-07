@@ -1,5 +1,6 @@
 # Quantum Token Simulator: Emergent Semantic Clustering via Semantic Lennard-Jones Particle Dynamics
-**Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[USERNAME]/quantum-token-simulator/blob/main/notebook/quantum_token_simulator_slj.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[USERNAME]/quantum-token-simulator/blob/main/notebook/quantum_token_simulator_slj.ipynb)
+
 **Author:** Fabrice Fils-Aimé
 **Date:** April-07- 2026
 **License:** Apache 2.0 (code) | CC BY 4.0 (this report)
