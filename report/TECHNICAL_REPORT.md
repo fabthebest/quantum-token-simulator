@@ -440,7 +440,7 @@ version 2.7.0. The simulation was implemented in NumPy 1.26.0 with no GPU
 requirements. Cluster evaluation used scikit-learn 1.4.0. The complete
 codebase, including the Jupyter notebook, requirements file, and this report,
 is available under the Apache 2.0 license at:
-https://github.com/[USERNAME]/quantum-token-simulator
+https://github.com/fabthebest/quantum-token-simulator
 
 Key simulation parameters: k_att = 4.0, k_rep = 0.7, attraction threshold
 = 0.175, dt = 0.035, damping = 0.88, steps = 150, PCA scale = 5.0,
